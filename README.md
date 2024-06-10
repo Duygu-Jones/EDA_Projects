@@ -62,6 +62,7 @@ You can find more about me and my work through the following links:
 - **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
+- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 
 Feel free to connect with me!
 
