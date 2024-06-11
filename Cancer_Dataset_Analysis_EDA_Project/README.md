@@ -112,7 +112,7 @@ Feel free to connect with me!<br>
 🎯Boost your exploratory data analysis skills,<br> 
 💡Share your insights with the community, <br>
 👩‍💻Become a data wizard! <br>
-✨✨If you find this repository helpful, don't forget to give it a ⭐ star.<br>
+✨If you find this repository helpful, don't forget to give it a star✨.<br>
 
 Code with joy!👩‍💻✨
 
