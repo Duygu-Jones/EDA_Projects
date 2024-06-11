@@ -1,84 +1,124 @@
 
-# Cancer Cell Analysis EDA Project
+# Cancer Dataset Analysis -EDA Project🔬🔥
+
+---
 
 ## Executive Summary:
 
-Using Python, we performed an Exploratory Data Analysis (EDA) on the Cancer dataset to understand the characteristics of tumor cells and determine whether the tumors are benign or malignant. This project involved data cleaning, preprocessing, visualization, and analysis to gain insights into the dataset and provide recommendations for further research and potential applications in cancer diagnosis.
+In this project, performed an Exploratory Data Analysis (EDA) on the **Cancer.csv** dataset using Python.<br> 
+- **Objective:** To examine the features of **benign** and **malignant** cells and determine the structural similarities and differences between these tumour cells.<br>
+- **Dataset:** Each sample belongs to a patient and includes various biopsy measurements that provide information about the characteristics of the tumour cells.<br>
+- **Methodology:** Data cleaning, preprocessing, visualization, and analysis to gain insights into the dataset and provide recommendations for further research and potential applications in cancer diagnosis.<br>
 
-## Project Description:
 
-- In this project, we conducted a basic Exploratory Data Analysis (EDA) on the **Cancer.csv** dataset.
-- EDA helps us understand the dataset in detail using basic Python code.
-- Each sample in the dataset belongs to a patient and includes various biopsy measurements.
-- These measurements provide information about the characteristics of the tumor cells.
-- By examining these features, we aim to determine whether the tumor is **benign** (iyi huylu) or **malignant** (kötü huylu).
 
-## Getting to Know About Cancer:
+### Problem: How do benign cells differ from malignant cells?
+Cancer remains one of the most critical health challenges worldwide.
+- Cancer is a disease characterized by the uncontrolled growth and spread of abnormal cells in the body (metastasize).
+- Cancer can be caused by genetic mutations that can be inherited or acquired due to environmental factors.
+- However, it is curable if detected in its early stages as a non-metastatic disease, highlighting the importance of early detection and the need for continued research in this area.
 
-![Cancer Image](image.png)
+<img src="https://github.com/Duygu-Jones/EDA_Projects/blob/main/Cancer_Dataset_Analysis_EDA_Project/img/img2.png" />
 
-- Cancer is characterized by the uncontrolled growth and spread of abnormal cells in the body (metastasize).
-- Early detection is crucial as non-metastatic cancer is often curable, emphasizing the importance of research in early detection.
-- Cancer can result from genetic mutations, either inherited or acquired due to environmental factors.
-- Treatment options include surgery, chemotherapy, radiation therapy, immunotherapy, or targeted therapy, depending on the cancer type and stage.
+For more information:
+- [The Difference Between Normal and Cancer Cells](https://drjockers.com/cancer-cells/)   
+- [Cancer Cells vs Normal Cells](https://www.technologynetworks.com/cancer-research/articles/cancer-cells-vs-normal-cells-307366)
 
-## Methodology:
 
-1. **Data Extraction and Cleaning:**
+
+### About the Cancer Dataset: 
+
+Structural Analysis;
+- **Dataset**: Cancer.csv
+- **Number of Rows**: 569
+- **Number of Columns**: 31   
+        
+   - *Columns between [0-9] represent the **mean** in the measurements of various tumour characteristics.*
+   - *Columns between [10-19] represent the **error rates** (std) in the measurements of various tumour characteristics.*
+   - *Columns between [20-29] represent the **mean of the 3 worst (largest) values** in the measurements of various tumour characteristics.*
+   - *The column [30] represents:* **target**: Type of tumor cell (**1: benign, 0: malignant**).
+
+
+
+
+### Methodology:
+
+1. Data Extraction and Cleaning:
    - Extracted and cleaned the data from the Cancer dataset using Pandas.
    - Handled missing values and ensured data consistency.
-
-2. **Data Preprocessing:**
+2. Data Preprocessing:
    - Transformed and standardized the data to prepare it for analysis.
    - Created new features and engineered existing ones to enhance the analysis.
-
-3. **Exploratory Data Analysis:**
+3. Exploratory Data Analysis:
    - Performed statistical analysis and visualized the data using Matplotlib and Seaborn.
-   - Examined the relationships between different features and their impact on tumor classification.
+   - Examined the relationships between different features and their impact on tumour classification.
 
-### Key Visualizations:
 
-1. **Mean Area vs. Mean Smoothness:**
-![Mean Area vs Smoothness](image-1.png)
 
-2. **Distribution of Mean Area by Diagnosis:**
-![Distribution of Mean Area](image-2.png)
 
-## Key Features and Their Importance:
+### Skills:
 
-1. **Radius:** Mean radius of the tumor cells.
-   - Higher radius values indicate a larger tumor size, suggesting malignancy.
-   - Lower radius values indicate a smaller tumor size, suggesting benignity.
+- **Python**: Pandas, Matplotlib, Seaborn, Numpy, data cleaning, data visualization, statistical analysis.
+- **Data Analysis**: Exploratory Data Analysis (EDA), handling missing values, descriptive statistics.
+- **Data Visualization**: Creating plots and charts to visualize data insights.
 
-2. **Texture:** Standard deviation of gray-scale values.
-   - Higher texture values indicate more irregular and complex cell structures, suggesting malignancy.
-   - Lower texture values indicate more uniform cell structures, suggesting benignity.
 
-3. **Perimeter:** Mean perimeter of the tumor cells.
-   - Higher perimeter values indicate a larger and more irregular tumor boundary, suggesting malignancy.
-   - Lower perimeter values indicate a smaller and more regular tumor boundary, suggesting benignity.
 
-4. **Area:** Mean area of the tumor cells.
-   - Higher area values indicate a larger tumor size, suggesting malignancy.
-   - Lower area values indicate a smaller tumor size, suggesting benignity.
+### Conclusion:
 
-5. **Smoothness:** Mean of local variation in radius lengths.
-   - Higher smoothness values indicate less regular and smooth cell boundaries, suggesting malignancy.
-   - Lower smoothness values indicate more regular and smooth cell boundaries, suggesting benignity.
+Creating detailed visualizations and performing statistical analysis provided insights into the characteristics of tumour cells.<br>
+The visualizations highlighted key differences between benign and malignant cells, which could inform future predictive modelling efforts. 
 
-## Conclusion:
 
-Creating detailed visualizations and performing statistical analysis provided insights into the characteristics of tumor cells. This analysis showed that certain features, such as radius, texture, perimeter, area, and smoothness, play a significant role in determining whether a tumor is benign or malignant. 
 
-## Next Steps:
+### Next Steps:
 
-1. **Advanced Modeling:**
-   - Build machine learning models to predict tumor malignancy based on the identified key features.
-
-2. **Feature Engineering:**
-   - Explore additional features and interactions between features to improve model accuracy.
-
-3. **Validation:**
-   - Validate the findings with a larger and more diverse dataset to ensure generalizability.
+1. By focusing on key features, develop effective predictive models and diagnostic tools to aid early detection and enhance patient outcomes.
+2. Explore additional features and interactions between features to improve model accuracy.
+3. Validate the findings with a larger and more diverse dataset to ensure generalizability.
 
 ---
+
+*For more details about the analysis and the visualisation, check out the notebook.*
+
+- **Notebook:** [Cancer_Dataset_Analysis_EDA_Project.ipynb]([path/to/your/notebook](https://github.com/Duygu-Jones/EDA_Projects/blob/main/Cancer_Dataset_Analysis_EDA_Project/Cancer_Dataset_Analysis_EDA_Project.ipynb))
+- **Download the Dataset:** [Cancer.csv]([path/to/your/dataset](https://github.com/Duygu-Jones/EDA_Projects/blob/main/Cancer_Dataset_Analysis_EDA_Project/cancer.csv))
+
+
+*To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
+
+- **Kaggle Nootebook**: [Cancer Dataset Detailed EDA Project](https://www.kaggle.com/code/duygujones/cancer-dataset-detailed-eda-project)
+- **Find the Dataset on Kaggle:** [Cancer.csv](https://www.kaggle.com/datasets/duygujones/cancer-dataset-csv)
+
+---
+
+
+## About Me
+
+I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis and machine learning. <br>
+
+You can find more about me and my work through the following links:
+
+- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
+- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
+- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
+- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
+- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+
+Feel free to connect with me!<br>
+
+
+🎯Boost your exploratory data analysis skills,<br> 
+💡Share your insights with the community, <br>
+👩‍💻Become a data wizard! <br>
+✨✨If you find this repository helpful, don't forget to give it a ⭐ star.<br>
+
+Code with joy!👩‍💻✨
+
+---
+
+
+##### License
+
+##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
