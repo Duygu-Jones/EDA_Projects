@@ -18,7 +18,8 @@ Cancer remains one of the most critical health challenges worldwide.
 - Cancer can be caused by genetic mutations that can be inherited or acquired due to environmental factors.
 - However, it is curable if detected in its early stages as a non-metastatic disease, highlighting the importance of early detection and the need for continued research in this area.
 
-<img src="https://github.com/Duygu-Jones/EDA_Projects/blob/main/Cancer_Dataset_Analysis_EDA_Project/img/img2.png" />
+![image](https://github.com/Duygu-Jones/EDA_Projects/assets/141514497/951e195d-f6cf-4909-a214-cd770cc62595)
+
 
 For more information:
 - [The Difference Between Normal and Cancer Cells](https://drjockers.com/cancer-cells/)   
