@@ -32,12 +32,12 @@ INPUTS:
 OUTPUTS: Represents a factor with variables **present** and **absent** indicating if **kyphosis** (a type of deformation) was present or not after the corrective spinal surgery.
 
 
-### Understanding the Anatomy of Vertebrae
+#### Understanding the Anatomy of Vertebrae
 
 ![image](https://github.com/Duygu-Jones/EDA_Projects/assets/141514497/8690fc52-43db-4a13-8abd-44e53a412b2e)
 
 
-#### Groups of Anatomic Vertebrae: 
+##### Groups of Anatomic Vertebrae: 
 
 1. **Cervical Spine (C1-C7)** (Neck)
     - Number of Vertebrae: 7
@@ -52,10 +52,35 @@ OUTPUTS: Represents a factor with variables **present** and **absent** indicatin
 
 These groups represent the different sections of the vertebral column, with each section containing a specific number of vertebrae.
 
-For more information:
-- [Understanding Kyphosis](https://www.healthline.com/health/kyphosis)   
-- [Kyphosis: Causes, Symptoms, and Treatment](https://www.spine-health.com/conditions/spine-anatomy/kyphosis)
+  For more information:
+  - [Understanding Kyphosis](https://www.healthline.com/health/kyphosis)   
+  - [Kyphosis: Causes, Symptoms, and Treatment](https://www.spine-health.com/conditions/spine-anatomy/kyphosis)
 
+
+
+#### Feature Engineering: Classifying the 'Start' column in the Dataset to Anatomic Vertebrea Groups
+
+In this Dataset; the **Start** column is the **first** (top-most) vertebra number operated on and contains the numbers between (1-18).
+
+- We categorized the vertebra numbers in the Start column into Anatomical groups, and
+- A new column 'Vertebrae Group'  is created to classify the values in the Start column.
+
+    **Vertebrea Groups for the 'Start' column**
+    - 1-7: Cervical (C1-C7) (Neck)
+    - 8-19: Thoracic (T1-T12) (Back)
+    - 20-24: Lumbar (L1-L5) (Lower Back)
+    - 25-29: Sacrum (S1-S5) (Sacral)
+
+- We labelled each group of vertebras with a number and created a new column called 'Vertebrae Group Number'.
+
+    **Labels of the Vertebrea Groups**
+    - (1) Cervical (C1-C7)
+    - (2) Thoracic (T1-T12)
+    - (3) Lumbar (L1-L5)
+    - (4) Sacrum (S1-S5)
+    - (5) Unknown
+
+---
 
 ### Methodology:
 
@@ -103,8 +128,8 @@ Further analysis with advanced statistical tests and machine learning models is 
 
 *For more details about the analysis and visualisation, check out the notebook.*
 
-- **Notebook:** [Kyphosis_Disease_Analysis_EDA_Project.ipynb]([path/to/your/notebook](https://github.com/your-username/your-repo/blob/main/Kyphosis_Disease_Analysis_EDA_Project/Kyphosis_Disease_Analysis_EDA_Project.ipynb))
-- **Download the Dataset:** [Kyphosis.csv]([path/to/your/dataset](https://github.com/your-username/your-repo/blob/main/Kyphosis_Disease_Analysis_EDA_Project/kyphosis.csv))
+- **Notebook:** [Kyphosis_Disease_Detailed_EDA_Project.ipynb](https://github.com/Duygu-Jones/EDA_Projects/blob/main/Kyphosis_Risk_Analysis_EDA_Project/kyphosis-disease-detailed-eda-project.ipynb)
+- **Download the Dataset:** [Kyphosis.csv](https://github.com/Duygu-Jones/EDA_Projects/blob/main/Kyphosis_Risk_Analysis_EDA_Project/kyphosis.csv)
 
 *To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
 
