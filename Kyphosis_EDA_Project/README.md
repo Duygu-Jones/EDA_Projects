@@ -139,7 +139,7 @@ Further analysis with advanced statistical tests and machine learning models is 
 
 ## About Me
 
-I'm [Your Name], a Data Scientist, passionate about data visualization, analysis and machine learning. <br>
+I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis and machine learning. <br>
 
 You can find more about me and my work through the following links:
 
