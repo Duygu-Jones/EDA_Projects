@@ -1,6 +1,6 @@
 
 <h1 align="center">
-📍 Bike-Sharing Demand Analysis and Prediction ♻️🌱
+📍 Bike-Sharing Demand Analysis and Prediction  🚲♻️🌱
   
 EDA + ML Project🚀
 </h1>
