@@ -134,9 +134,11 @@ To further improve the analysis and model performance:
 - Experiment with different machine learning algorithms and hyperparameter tuning to find the best-performing model.
 - Consider deploying the model for dynamic bike availability adjustments based on demand forecasts.
 
-📍If you enjoyed this notebook, don't forget to give it a star! ✨🌟
+🚲🩵 As someone who loves cycling, I had an amazing time working on this project. It gave me deeper insights into bike-sharing systems and helped me anticipate future demand. 🔍
 
-🌱Keep pedalling and exploring! 🚴‍♂️🚴‍♀️
+📍If you found this work valuable, please don't forget to give it a star🌟 and share it with your network ♻️
+
+🌱 Every pedal counts! Keep biking and enjoy the ride! 🚴‍♂️🚴‍♀️
 
 ---
 
@@ -147,7 +149,7 @@ To further improve the analysis and model performance:
 
 *To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
 
-- **Kaggle Notebook**: [.......... Detailed EDA Project](https://www.kaggle.com/code/duygujones/kyphosis-disease-detailed-eda-project)
+- **Kaggle Notebook**: [Bike Sharing Demand (EDA+Prediction) 🔥🚀](https://www.kaggle.com/code/duygujones/bike-sharing-demand-eda-prediction)
 
 ---
 
