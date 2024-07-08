@@ -6,9 +6,7 @@ Welcome to the EDA Projects repository!
 This repository contains a collection of Exploratory Data Analysis (EDA) projects on various datasets, aimed at uncovering insights, 
 patterns, and trends through data visualization and statistical analysis.
 
-Each project focuses on different datasets and domains, providing a variety of examples and methodologies.
-
-Each project folder contains a detailed README file explaining the specific EDA project, the dataset used, and the findings.
+Each project focuses on different datasets and domains, providing a variety of examples and methodologies and contains a detailed README file explaining the specific EDA project, dataset and findings.
 
 I hope these projects inspire and provide valuable insights to others interested in data analysis. 
 
