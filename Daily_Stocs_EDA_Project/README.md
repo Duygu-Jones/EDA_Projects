@@ -62,13 +62,9 @@ EDA Project 🚀
 
 ---
 
-*For more details about the analysis and visualization, check out the notebook.*
+*For more details about the analysis and visualization, check out the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
 
-- **Notebook:** [Daily_Stock_Prices_and_Returns_EDA_Project.ipynb](path/to/your/notebook.ipynb)
-
-*To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
-
-- **Kaggle Notebook**: [Daily Stock Prices and Returns EDA Project](https://www.kaggle.com/code/duygujones/daily-stock-prices-eda-project)
+- **Kaggle Notebook**: [Daily Stock Prices and Returns EDA Project](https://www.kaggle.com/code/duygujones/daily-stocks-price-eda-aapl-jpm-pg-ual-2017-2022/notebook)
 
 ---
 
