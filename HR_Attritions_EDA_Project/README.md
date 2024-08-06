@@ -62,7 +62,7 @@ Detailed EDA Project 🚀
 
 - This analysis offered valuable insights into factors affecting employee satisfaction and retention.
 - The findings can assist in developing effective HR strategies to improve the workplace environment and reduce turnover rates.
-- Future work includes integrating more data for a comprehensive analysis and developing predictive models to further enhance HR management strategies.
+- Future work includes integrating more data for a comprehensive analysis and developing predictive models to enhance HR management strategies further.
 
 ### Recommendations
 
@@ -87,7 +87,7 @@ Clone the repository and open the Jupyter Notebook to explore.
 
 *To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
 
-- **Kaggle Notebook**: [Human Resources EDA Project](https://www.kaggle.com/code/duygujones/human-resources-eda-project)
+- **Kaggle Notebook**: [Human Resources EDA Project](https://www.kaggle.com/code/duygujones/human-resources-churn-analysis)
 
 ---
 
