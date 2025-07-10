@@ -1,0 +1,377 @@
+restoran_adi,siparis_no,odeme_yontemi,siparis_durumu,siparis_tarihi,teslimat_zamani,toplam_tutar,kdv_tutari,servis_ucreti,restoran_indirimi,restoran_kuponu,komisyon,tahmini_kazanc,odeme_tutari,toplam_indirim,toplam_kupon,urunler
+Arthur's Pizza,vz11-0fhb,Online,Teslim Edildi,2024-12-05 21:06:00,2024-12-05 21:33:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-0qyc,Kapıda Ödeme,Teslim Edildi,2024-12-12 17:18:00,2024-12-12 17:44:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-1c3r,Online,Teslim Edildi,2024-11-27 17:00:00,2024-11-27 17:20:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-1l7c,Kapıda Ödeme,Teslim Edildi,2024-11-24 16:44:00,2024-11-24 17:11:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-1npv,Kapıda Ödeme,Teslim Edildi,2024-12-07 22:25:00,2024-12-07 22:45:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-1o8n,Kapıda Ödeme,Teslim Edildi,2024-12-14 19:00:00,2024-12-14 19:33:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-1qv6,Online,Teslim Edildi,2024-11-29 19:39:00,2024-11-29 20:07:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-20e0,Kapıda Ödeme,Teslim Edildi,2024-11-21 19:07:00,2024-11-21 19:53:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-3ad4,Online,Teslim Edildi,2024-12-04 19:27:00,2024-12-04 19:58:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-3vka,Kapıda Ödeme,Teslim Edildi,2024-11-29 18:06:00,2024-11-29 18:37:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-42gj,Online,Teslim Edildi,2024-11-28 21:13:00,2024-11-28 21:42:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-4akm,Kapıda Ödeme,Teslim Edildi,2024-11-23 19:41:00,2024-11-23 20:02:00,680.0,34.82,65.28,136.0,0.0,108.8,335.1,335.1,136.0,0.0,"1 Roma, 1 Torino"
+Arthur's Pizza,vz11-4r4c,Online,Teslim Edildi,2024-11-28 21:11:00,2024-11-28 21:39:00,660.0,51.12,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Margherita, 1 Roma"
+Arthur's Pizza,vz11-4udr,Online,Teslim Edildi,2024-11-30 18:39:00,2024-11-30 18:59:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-4wrh,Kapıda Ödeme,Teslim Edildi,2024-11-26 18:23:00,2024-11-26 18:48:00,780.0,64.96,46.8,0.0,150.0,78.0,240.24,240.24,0.0,150.0,"1 Milano, 1 Coca-Cola Zero Sugar (25 cl.), 1 Roma, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-51ck,Online,Teslim Edildi,2024-12-14 20:13:00,2024-12-14 20:46:00,660.0,33.79,63.36,132.0,0.0,105.6,325.25,325.25,132.0,0.0,"1 Napolitan, 1 Milano"
+Arthur's Pizza,vz11-5anw,Online,Teslim Edildi,2024-11-28 14:22:00,2024-11-28 14:44:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-5pdo,Online,Teslim Edildi,2024-11-22 13:55:00,2024-11-22 14:35:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Margherita
+Arthur's Pizza,vz11-8iq2,Online,Teslim Edildi,2024-11-22 19:05:00,2024-11-22 19:29:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-8v14,Kapıda Ödeme,Teslim Edildi,2024-11-22 18:37:00,2024-11-22 19:03:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-8yfl,Online,Teslim Edildi,2024-11-29 22:11:00,2024-11-29 22:42:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-98kf,Online,Teslim Edildi,2024-11-24 17:55:00,2024-11-24 18:32:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Milano, 1 Torino"
+Arthur's Pizza,vz11-9c38,Online,Teslim Edildi,2024-12-13 19:53:00,2024-12-13 20:19:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-9e8f,Kapıda Ödeme,Teslim Edildi,2024-11-24 20:23:00,2024-11-24 20:47:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-adr1,Online,Teslim Edildi,2024-11-24 19:14:00,2024-11-24 20:05:00,760.0,62.65,45.6,0.0,150.0,76.0,234.08,234.08,0.0,150.0,"1 Margherita, 1 Verona, 1 Lipton Ice Tea Şeftali (25 cl.), 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-b33s,Kapıda Ödeme,Teslim Edildi,2024-11-28 18:38:00,2024-11-28 19:06:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-b9jo,Kapıda Ödeme,Teslim Edildi,2024-11-29 22:21:00,2024-11-29 22:50:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-bc01,Kapıda Ödeme,Teslim Edildi,2024-11-23 20:44:00,2024-11-23 21:05:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-bu9u,Online,Teslim Edildi,2024-11-29 19:23:00,2024-11-29 19:58:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-c0nd,Online,Teslim Edildi,2024-11-21 19:12:00,2024-11-21 19:48:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Verona, 1 Torino"
+Arthur's Pizza,vz11-c4pg,Kapıda Ödeme,Teslim Edildi,2024-12-13 16:03:00,2024-12-13 16:35:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-cptb,Online,Teslim Edildi,2024-11-24 18:52:00,2024-11-24 19:17:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-cvzh,Online,Teslim Edildi,2024-11-20 18:56:00,2024-11-20 19:34:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-d61p,Online,Teslim Edildi,2024-12-14 16:57:00,2024-12-14 17:25:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Torino"
+Arthur's Pizza,vz11-etlq,Online,Teslim Edildi,2024-11-22 19:09:00,2024-11-22 20:10:00,1000.0,51.2,96.0,200.0,0.0,160.0,492.8,492.8,200.0,0.0,"1 Margherita, 1 Roma, 1 Torino"
+Arthur's Pizza,vz11-eur7,Kapıda Ödeme,Teslim Edildi,2024-11-19 15:00:00,2024-11-19 15:40:00,710.0,36.35,68.16,142.0,0.0,113.6,349.89,349.89,142.0,0.0,"1 Milano, 1 Napolitan, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-eyua,Online,Teslim Edildi,2024-12-07 18:01:00,2024-12-07 18:26:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-fg6e,Kapıda Ödeme,Teslim Edildi,2024-12-13 21:50:00,2024-12-13 22:17:00,370.0,26.01,22.2,0.0,100.0,37.0,113.96,113.96,0.0,100.0,"1 Margherita, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-flh2,Online,Teslim Edildi,2024-12-04 20:36:00,2024-12-04 21:08:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-fwne,Kapıda Ödeme,Teslim Edildi,2024-11-28 16:43:00,2024-11-28 17:09:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-gowo,Online,Teslim Edildi,2024-11-29 20:02:00,2024-11-29 20:27:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-iirx,Online,Teslim Edildi,2024-11-20 22:19:00,2024-11-20 22:41:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Napolitan
+Arthur's Pizza,vz11-ijlm,Online,Teslim Edildi,2024-11-26 19:22:00,2024-11-26 19:45:00,460.0,28.05,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Milano, 1 Coca-Cola (25 cl.), 1 Sprite (25 cl.), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-j1cr,Online,Teslim Edildi,2024-12-14 20:12:00,2024-12-14 20:39:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-jkbn,Online,Teslim Edildi,2024-11-28 17:44:00,2024-11-28 18:08:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Margherita
+Arthur's Pizza,vz11-k174,Online,Teslim Edildi,2024-12-08 19:15:00,2024-12-08 20:10:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-m28f,Online,Teslim Edildi,2024-11-28 19:35:00,2024-11-28 19:54:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-mk4c,Online,Teslim Edildi,2024-12-04 20:35:00,2024-12-04 20:56:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-moha,Online,Teslim Edildi,2024-11-20 22:01:00,2024-11-20 22:35:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-msi5,Kapıda Ödeme,Teslim Edildi,2024-12-01 21:47:00,2024-12-01 22:27:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-nt2t,Kapıda Ödeme,Teslim Edildi,2024-11-29 18:52:00,2024-11-29 19:20:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-o4g8,Online,Teslim Edildi,2024-11-22 14:35:00,2024-11-22 14:57:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-oc73,Online,Teslim Edildi,2024-12-14 16:42:00,2024-12-14 17:06:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Verona
+Arthur's Pizza,vz11-on8z,Kapıda Ödeme,Teslim Edildi,2024-12-01 18:33:00,2024-12-01 19:23:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-oqin,Online,Teslim Edildi,2024-12-12 17:16:00,2024-12-12 17:59:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-ovd5,Kapıda Ödeme,Teslim Edildi,2024-11-30 19:13:00,2024-11-30 19:42:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-po4n,Online,Teslim Edildi,2024-11-19 22:02:00,2024-11-19 22:21:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-rnxo,Kapıda Ödeme,Teslim Edildi,2024-11-30 19:32:00,2024-11-30 20:36:00,780.0,39.94,74.88,156.0,0.0,124.8,384.38,384.38,156.0,0.0,"2 Roma, 2 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-rzvz,Online,Teslim Edildi,2024-11-29 20:18:00,2024-11-29 20:50:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-taj7,Online,Teslim Edildi,2024-12-12 19:38:00,2024-12-12 20:01:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-tf5c,Online,Teslim Edildi,2024-12-13 16:16:00,2024-12-13 16:45:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-tgtn,Online,Teslim Edildi,2024-11-20 18:23:00,2024-11-20 18:54:00,680.0,34.82,65.28,136.0,0.0,108.8,335.1,335.1,136.0,0.0,"1 Verona, 1 Torino"
+Arthur's Pizza,vz11-tjxl,Kapıda Ödeme,Teslim Edildi,2024-11-22 18:16:00,2024-11-22 18:43:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-tyt5,Online,Teslim Edildi,2024-12-12 15:45:00,2024-12-12 16:07:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-tzn0,Online,Teslim Edildi,2024-11-30 14:59:00,2024-11-30 15:18:00,390.0,19.97,37.44,78.0,0.0,62.4,192.19,192.19,78.0,0.0,"1 Torino, 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-ujqd,Kapıda Ödeme,Teslim Edildi,2024-11-22 18:37:00,2024-11-22 19:14:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Napolitan
+Arthur's Pizza,vz11-ut2t,Online,Teslim Edildi,2024-12-01 22:19:00,2024-12-01 22:32:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-v1vt,Online,Teslim Edildi,2024-11-29 21:20:00,2024-11-29 21:45:00,460.0,28.05,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Milano, 2 Coca-Cola (25 cl.), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-w15k,Kapıda Ödeme,Teslim Edildi,2024-12-01 21:26:00,2024-12-01 22:40:00,390.0,28.31,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Torino, 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-waun,Kapıda Ödeme,Teslim Edildi,2024-12-12 17:37:00,2024-12-12 18:04:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Milano, 1 Roma"
+Arthur's Pizza,vz11-wax5,Online,Teslim Edildi,2024-11-19 17:20:00,2024-11-19 17:46:00,390.0,28.31,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Coca-Cola Zero Sugar (25 cl.), 1 Milano"
+Arthur's Pizza,vz11-wb4c,Kapıda Ödeme,Teslim Edildi,2024-11-27 18:53:00,2024-11-27 19:25:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Milano, 1 Torino"
+Arthur's Pizza,vz11-wffw,Kapıda Ödeme,Teslim Edildi,2024-11-24 19:16:00,2024-11-24 20:00:00,390.0,19.97,37.44,78.0,0.0,62.4,192.19,192.19,78.0,0.0,"1 Milano, 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-wymy,Online,Teslim Edildi,2024-12-05 13:59:00,2024-12-05 14:19:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Napolitan
+Arthur's Pizza,vz11-xcmi,Kapıda Ödeme,Teslim Edildi,2024-12-05 16:07:00,2024-12-05 16:34:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-xgj2,Kapıda Ödeme,Teslim Edildi,2024-12-03 19:47:00,2024-12-03 20:27:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Napolitan
+Arthur's Pizza,vz11-xtdq,Online,Teslim Edildi,2024-12-04 18:04:00,2024-12-04 18:34:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-y1b9,Online,Teslim Edildi,2024-11-20 18:58:00,2024-11-20 19:45:00,1020.0,52.22,97.92,204.0,0.0,163.2,502.66,502.66,204.0,0.0,"1 Roma, 1 Roma, 1 Verona"
+Arthur's Pizza,vz11-yrgz,Online,Teslim Edildi,2024-12-12 18:57:00,2024-12-12 19:29:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-z41m,Online,Teslim Edildi,2024-11-23 19:09:00,2024-11-23 19:32:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-010a,Kapıda Ödeme,Teslim Edildi,2024-11-01 17:29:00,2024-11-01 17:54:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-0g1q,Kapıda Ödeme,Teslim Edildi,2024-11-02 22:59:00,2024-11-02 23:35:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Torino, 1 Verona"
+Arthur's Pizza,vz11-0jjf,Online,Teslim Edildi,2024-10-31 22:40:00,2024-10-31 23:21:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,2 Milano
+Arthur's Pizza,vz11-0neh,Kapıda Ödeme,Teslim Edildi,2024-10-31 17:39:00,2024-10-31 17:59:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-0vpm,Online,Teslim Edildi,2024-10-23 18:13:00,2024-10-23 18:40:00,660.0,48.58,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Roma, 1 Napolitan"
+Arthur's Pizza,vz11-0z0y,Kapıda Ödeme,Teslim Edildi,2024-10-28 15:51:00,2024-10-28 16:18:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-1hpz,Online,Teslim Edildi,2024-10-24 17:09:00,2024-10-24 17:38:00,660.0,48.58,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Napolitan, 1 Torino"
+Arthur's Pizza,vz11-27nj,Online,Teslim Edildi,2024-10-28 21:12:00,2024-10-28 21:38:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-27t7,Kapıda Ödeme,Teslim Edildi,2024-11-01 20:15:00,2024-11-01 20:49:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-2owk,Kapıda Ödeme,Teslim Edildi,2024-10-24 14:26:00,2024-10-24 14:56:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-2u7r,Online,Teslim Edildi,2024-10-24 20:38:00,2024-10-24 21:05:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Verona, 1 Roma"
+Arthur's Pizza,vz11-37bt,Kapıda Ödeme,Teslim Edildi,2024-11-03 21:50:00,2024-11-03 22:09:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-3fab,Kapıda Ödeme,Teslim Edildi,2024-11-08 21:57:00,2024-11-08 22:24:00,870.0,44.54,83.52,174.0,0.0,139.2,428.74,428.74,174.0,0.0,"1 Milano, 1 Napolitan, 3 Su (50 cl.), 1 Lipton Ice Tea Şeftali (25 cl.), 1 Coca-Cola (25 cl.), 1 Fanta (25 cl.)"
+Arthur's Pizza,vz11-3jb9,Kapıda Ödeme,Teslim Edildi,2024-10-24 22:33:00,2024-10-24 23:02:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-3qx0,Kapıda Ödeme,Teslim Edildi,2024-11-05 22:57:00,2024-11-05 23:16:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-3v8d,Online,Teslim Edildi,2024-10-31 22:45:00,2024-10-31 23:25:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-4al8,Kapıda Ödeme,Teslim Edildi,2024-11-12 20:40:00,2024-11-12 21:05:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-4b6m,Online,Teslim Edildi,2024-11-15 20:29:00,2024-11-15 20:57:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-4fk6,Online,Teslim Edildi,2024-10-23 17:16:00,2024-10-23 17:34:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-4m24,Online,Teslim Edildi,2024-11-05 20:25:00,2024-11-05 20:45:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-538h,Online,Teslim Edildi,2024-10-26 19:47:00,2024-10-26 20:12:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Torino, 1 Milano"
+Arthur's Pizza,vz11-59qe,Kapıda Ödeme,Teslim Edildi,2024-10-28 22:17:00,2024-10-28 22:37:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Margherita
+Arthur's Pizza,vz11-5amm,Kapıda Ödeme,Teslim Edildi,2024-10-23 20:31:00,2024-10-23 21:15:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-5j4z,Kapıda Ödeme,Teslim Edildi,2024-10-28 13:16:00,2024-10-28 13:41:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-5jdd,Online,Teslim Edildi,2024-11-12 18:54:00,2024-11-12 19:16:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-5qx2,Online,Teslim Edildi,2024-10-29 17:33:00,2024-10-29 18:02:00,460.0,28.05,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Roma, 2 Coca-Cola Zero Sugar (25 cl.), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-5zwe,Kapıda Ödeme,Teslim Edildi,2024-10-24 17:40:00,2024-10-24 18:06:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-6g6h,Kapıda Ödeme,Teslim Edildi,2024-11-07 21:27:00,2024-11-07 22:03:00,420.0,21.5,40.32,84.0,0.0,67.2,206.98,206.98,84.0,0.0,"1 Napolitan, 2 Fanta (25 cl.)"
+Arthur's Pizza,vz11-6juo,Online,Teslim Edildi,2024-10-29 17:10:00,2024-10-29 17:36:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Verona, 1 Torino"
+Arthur's Pizza,vz11-6qgw,Kapıda Ödeme,Teslim Edildi,2024-11-14 18:35:00,2024-11-14 19:01:00,340.0,11.67,0.0,0.0,100.0,0.0,170.0,170.0,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-6r2z,Online,Teslim Edildi,2024-11-02 23:27:00,2024-11-03 00:00:00,680.0,34.82,65.28,136.0,0.0,108.8,335.1,335.1,136.0,0.0,"1 Torino, 1 Verona"
+Arthur's Pizza,vz11-6t1r,Online,Teslim Edildi,2024-11-12 13:39:00,2024-11-12 13:49:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Margherita
+Arthur's Pizza,vz11-6twz,Online,Teslim Edildi,2024-11-01 18:19:00,2024-11-01 19:02:00,660.0,51.12,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Torino, 1 Napolitan"
+Arthur's Pizza,vz11-6x6f,Online,Teslim Edildi,2024-10-24 22:33:00,2024-10-24 23:11:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-7rqe,Online,Teslim Edildi,2024-10-29 21:58:00,2024-10-29 22:27:00,640.0,32.77,61.44,128.0,0.0,102.4,315.39,315.39,128.0,0.0,2 Margherita
+Arthur's Pizza,vz11-8ja3,Online,Teslim Edildi,2024-10-24 13:41:00,2024-10-24 14:11:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-8lq3,Online,Teslim Edildi,2024-11-04 22:46:00,2024-11-04 23:10:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-8lud,Kapıda Ödeme,Teslim Edildi,2024-11-05 20:39:00,2024-11-05 21:01:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Margherita
+Arthur's Pizza,vz11-8u50,Online,Teslim Edildi,2024-10-29 21:41:00,2024-10-29 21:59:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-8w5z,Online,Teslim Edildi,2024-11-02 15:22:00,2024-11-02 15:36:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-94v1,Kapıda Ödeme,Teslim Edildi,2024-10-26 15:10:00,2024-10-26 15:41:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-99lz,Kapıda Ödeme,Teslim Edildi,2024-10-26 18:43:00,2024-10-26 19:09:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-9kat,Kapıda Ödeme,Teslim Edildi,2024-11-01 18:44:00,2024-11-01 19:02:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-9lfi,Kapıda Ödeme,Teslim Edildi,2024-11-08 21:58:00,2024-11-08 22:32:00,390.0,28.31,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Torino, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-9pu7,Online,Teslim Edildi,2024-10-26 16:29:00,2024-10-26 16:50:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-aixr,Online,Teslim Edildi,2024-11-06 17:21:00,2024-11-06 17:43:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-akbr,Online,Teslim Edildi,2024-11-02 18:32:00,2024-11-02 19:06:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-b1rx,Online,Teslim Edildi,2024-11-14 19:02:00,2024-11-14 19:28:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-bhqd,Online,Teslim Edildi,2024-11-15 19:02:00,2024-11-15 19:26:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-ccdu,Online,Teslim Edildi,2024-11-04 22:48:00,2024-11-04 23:16:00,660.0,51.12,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Milano, 1 Margherita"
+Arthur's Pizza,vz11-cmqm,Online,Teslim Edildi,2024-11-14 20:21:00,2024-11-14 20:48:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-cnyg,Online,Teslim Edildi,2024-11-12 18:40:00,2024-11-12 19:06:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Margherita
+Arthur's Pizza,vz11-cpzl,Online,Teslim Edildi,2024-11-12 15:45:00,2024-11-12 15:52:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-d1gu,Online,Teslim Edildi,2024-11-05 19:26:00,2024-11-05 19:59:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-dkb6,Online,Teslim Edildi,2024-11-08 18:15:00,2024-11-08 18:41:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-dkv7,Kapıda Ödeme,Teslim Edildi,2024-11-05 17:25:00,2024-11-05 18:05:00,740.0,37.89,71.04,148.0,0.0,118.4,364.67,364.67,148.0,0.0,"1 Margherita, 1 Napolitan, 1 Coca-Cola Zero Sugar (25 cl.), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-dm3d,Online,Teslim Edildi,2024-10-23 18:38:00,2024-10-23 18:58:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-ds03,Kapıda Ödeme,Teslim Edildi,2024-11-02 14:44:00,2024-11-02 15:14:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Milano"
+Arthur's Pizza,vz11-dwy3,Kapıda Ödeme,Teslim Edildi,2024-10-30 19:47:00,2024-10-30 20:17:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-e11y,Kapıda Ödeme,Teslim Edildi,2024-10-24 18:25:00,2024-10-24 18:58:00,390.0,26.97,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Coca-Cola Zero Sugar (25 cl.), 1 Milano"
+Arthur's Pizza,vz11-e7lu,Kapıda Ödeme,Teslim Edildi,2024-11-04 19:02:00,2024-11-04 19:24:00,390.0,19.97,37.44,78.0,0.0,62.4,192.19,192.19,78.0,0.0,"1 Roma, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-ed0m,Online,Teslim Edildi,2024-11-02 14:31:00,2024-11-02 14:53:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-f9y8,Online,Teslim Edildi,2024-11-05 20:09:00,2024-11-05 20:31:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-fm27,Online,Teslim Edildi,2024-11-13 20:57:00,2024-11-13 21:47:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-fxlm,Online,Teslim Edildi,2024-11-14 16:47:00,2024-11-14 17:07:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-gel8,Kapıda Ödeme,Teslim Edildi,2024-11-12 17:45:00,2024-11-12 18:18:00,680.0,34.82,65.28,136.0,0.0,108.8,335.1,335.1,136.0,0.0,"1 Torino, 1 Roma"
+Arthur's Pizza,vz11-gg09,Online,Teslim Edildi,2024-11-08 20:29:00,2024-11-08 20:52:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-glec,Online,Teslim Edildi,2024-11-13 19:39:00,2024-11-13 20:25:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-hn3s,Online,Teslim Edildi,2024-11-01 18:19:00,2024-11-01 18:41:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-hppg,Online,Teslim Edildi,2024-10-27 21:48:00,2024-10-27 22:10:00,660.0,48.58,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Napolitan, 1 Torino"
+Arthur's Pizza,vz11-i36u,Online,Teslim Edildi,2024-11-15 21:45:00,2024-11-15 22:49:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Milano"
+Arthur's Pizza,vz11-j26r,Online,Teslim Edildi,2024-10-30 22:26:00,2024-10-30 22:48:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-j2u2,Kapıda Ödeme,Teslim Edildi,2024-11-14 14:18:00,2024-11-14 14:44:00,340.0,11.67,0.0,0.0,0.0,0.0,270.0,270.0,0.0,0.0,1 Milano
+Arthur's Pizza,vz11-jjhf,Online,Teslim Edildi,2024-10-23 17:56:00,2024-10-23 18:24:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-l23n,Kapıda Ödeme,Teslim Edildi,2024-11-10 18:17:00,2024-11-10 18:37:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-l4mi,Kapıda Ödeme,Teslim Edildi,2024-11-02 23:21:00,2024-11-02 23:44:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-lakw,Online,Teslim Edildi,2024-10-26 17:38:00,2024-10-26 18:03:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Milano"
+Arthur's Pizza,vz11-lbhj,Kapıda Ödeme,Teslim Edildi,2024-11-10 18:32:00,2024-11-10 18:51:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-llrk,Online,Teslim Edildi,2024-11-10 18:41:00,2024-11-10 19:22:00,780.0,64.96,46.8,0.0,150.0,78.0,240.24,240.24,0.0,150.0,"1 Milano, 1 Coca-Cola Zero Sugar (25 cl.), 1 Coca-Cola (25 cl.), 1 Verona"
+Arthur's Pizza,vz11-m3xu,Online,Teslim Edildi,2024-11-05 21:14:00,2024-11-05 21:42:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-m5z5,Online,Teslim Edildi,2024-10-26 18:39:00,2024-10-26 19:01:00,440.0,32.39,26.4,0.0,100.0,44.0,135.52,135.52,0.0,100.0,"1 Torino, 1 Coca-Cola (25 cl.), 1 Lipton Ice Tea Limon (25 cl.)"
+Arthur's Pizza,vz11-nfjk,Online,Teslim Edildi,2024-11-14 13:03:00,2024-11-14 13:33:00,760.0,38.91,72.96,152.0,0.0,121.6,374.53,374.53,152.0,0.0,"1 Roma, 1 Margherita, 2 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-nrop,Kapıda Ödeme,Teslim Edildi,2024-11-03 20:05:00,2024-11-03 20:30:00,370.0,26.01,22.2,0.0,100.0,37.0,113.96,113.96,0.0,100.0,"1 Margherita, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-o072,Online,Teslim Edildi,2024-10-30 14:55:00,2024-10-30 15:28:00,660.0,51.12,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Verona, 1 Margherita"
+Arthur's Pizza,vz11-o5ze,Online,Teslim Edildi,2024-10-27 18:05:00,2024-10-27 18:29:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-ofqs,Online,Teslim Edildi,2024-11-03 19:11:00,2024-11-03 19:30:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-oo6k,Online,Teslim Edildi,2024-11-08 18:54:00,2024-11-08 19:21:00,320.0,20.24,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Margherita
+Arthur's Pizza,vz11-p7f8,Online,Teslim Edildi,2024-10-26 23:13:00,2024-10-26 23:51:00,660.0,48.58,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Margherita, 1 Roma"
+Arthur's Pizza,vz11-pp0s,Online,Teslim Edildi,2024-10-23 20:37:00,2024-10-23 21:02:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-q4xl,Kapıda Ödeme,Teslim Edildi,2024-10-24 11:41:00,2024-10-24 11:59:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-qgs4,Online,Teslim Edildi,2024-10-31 20:02:00,2024-10-31 20:27:00,390.0,28.31,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Roma, 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-qi4h,Online,Teslim Edildi,2024-11-09 21:06:00,2024-11-09 21:25:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-qx7w,Kapıda Ödeme,Teslim Edildi,2024-10-27 17:48:00,2024-10-27 18:12:00,390.0,26.97,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Verona, 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-r3e7,Kapıda Ödeme,Teslim Edildi,2024-11-10 20:40:00,2024-11-10 20:50:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-r925,Kapıda Ödeme,Teslim Edildi,2024-10-30 13:34:00,2024-10-30 14:02:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-rbnd,Online,Teslim Edildi,2024-10-28 18:36:00,2024-10-28 19:01:00,460.0,26.92,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Milano, 1 Fanta (25 cl.), 1 Coca-Cola Zero Sugar (25 cl.), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-rex3,Online,Teslim Edildi,2024-11-12 13:37:00,2024-11-12 13:49:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-rtj7,Online,Teslim Edildi,2024-10-24 16:45:00,2024-10-24 17:14:00,390.0,26.97,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Milano, 1 Lipton Ice Tea Şeftali (25 cl.)"
+Arthur's Pizza,vz11-ru5j,Online,Teslim Edildi,2024-10-27 16:26:00,2024-10-27 16:47:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-rx1v,Online,Teslim Edildi,2024-10-31 21:45:00,2024-10-31 22:05:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Margherita
+Arthur's Pizza,vz11-s6vg,Online,Teslim Edildi,2024-10-28 19:57:00,2024-10-28 20:14:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-s74i,Kapıda Ödeme,Teslim Edildi,2024-11-04 17:24:00,2024-11-04 17:50:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Torino, 1 Roma"
+Arthur's Pizza,vz11-sgo6,Online,Teslim Edildi,2024-11-05 21:45:00,2024-11-05 21:59:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-sulp,Online,Teslim Edildi,2024-11-15 21:50:00,2024-11-15 22:38:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-svpr,Online,Teslim Edildi,2024-11-13 19:10:00,2024-11-13 19:41:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Milano, 1 Verona"
+Arthur's Pizza,vz11-sxxf,Kapıda Ödeme,Teslim Edildi,2024-10-29 12:49:00,2024-10-29 13:16:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-t1df,Online,Teslim Edildi,2024-11-07 21:34:00,2024-11-07 21:54:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-tdih,Online,Teslim Edildi,2024-11-01 23:01:00,2024-11-01 23:36:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-th6u,Online,Teslim Edildi,2024-10-24 19:35:00,2024-10-24 20:14:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-tl6f,Online,Teslim Edildi,2024-11-07 21:05:00,2024-11-07 21:32:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-tp62,Kapıda Ödeme,Teslim Edildi,2024-10-23 19:59:00,2024-10-23 20:25:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-trr1,Online,Teslim Edildi,2024-11-01 21:57:00,2024-11-01 22:23:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-uf51,Kapıda Ödeme,Teslim Edildi,2024-10-31 22:35:00,2024-10-31 23:09:00,660.0,51.12,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Milano, 1 Margherita"
+Arthur's Pizza,vz11-uolf,Online,Teslim Edildi,2024-11-15 18:41:00,2024-11-15 19:17:00,460.0,28.05,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Roma, 1 Lipton Ice Tea Limon (25 cl.), 1 Lipton Ice Tea Şeftali (25 cl.), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-urv9,Kapıda Ödeme,Teslim Edildi,2024-11-14 14:39:00,2024-11-14 15:14:00,340.0,0.0,0.0,68.0,0.0,0.0,272.0,272.0,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-v1zx,Online,Teslim Edildi,2024-11-03 19:28:00,2024-11-03 19:54:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-vgu6,Kapıda Ödeme,Teslim Edildi,2024-11-13 17:24:00,2024-11-13 18:03:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Verona, 1 Torino"
+Arthur's Pizza,vz11-vn58,Kapıda Ödeme,Teslim Edildi,2024-11-02 20:21:00,2024-11-02 20:41:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-vogf,Online,Teslim Edildi,2024-10-23 21:13:00,2024-10-23 21:51:00,1000.0,51.2,96.0,200.0,0.0,160.0,492.8,492.8,200.0,0.0,"1 Napolitan, 2 Milano"
+Arthur's Pizza,vz11-vol1,Online,Teslim Edildi,2024-11-01 17:32:00,2024-11-01 18:00:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Milano"
+Arthur's Pizza,vz11-wi9h,Online,Teslim Edildi,2024-11-05 19:23:00,2024-11-05 19:50:00,440.0,34.08,26.4,0.0,100.0,44.0,135.52,135.52,0.0,100.0,"1 Milano, 1 Lipton Ice Tea Şeftali (25 cl.), 1 Sprite (25 cl.)"
+Arthur's Pizza,vz11-wtd8,Kapıda Ödeme,Teslim Edildi,2024-10-31 20:07:00,2024-10-31 20:43:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-x74g,Kapıda Ödeme,Teslim Edildi,2024-11-04 22:11:00,2024-11-04 22:34:00,680.0,53.43,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Torino, 1 Roma"
+Arthur's Pizza,vz11-xbdv,Kapıda Ödeme,Teslim Edildi,2024-10-31 17:20:00,2024-10-31 17:48:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-xo3g,Online,Teslim Edildi,2024-10-29 17:46:00,2024-10-29 18:04:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-xxz7,Online,Teslim Edildi,2024-10-23 19:11:00,2024-10-23 19:34:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-y112,Online,Teslim Edildi,2024-11-04 22:23:00,2024-11-04 22:51:00,340.0,22.55,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-y4xi,Kapıda Ödeme,Teslim Edildi,2024-11-02 20:04:00,2024-11-02 20:32:00,680.0,34.82,65.28,136.0,0.0,108.8,335.1,335.1,136.0,0.0,2 Roma
+Arthur's Pizza,vz11-y774,Kapıda Ödeme,Teslim Edildi,2024-10-24 14:28:00,2024-10-24 14:46:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-y8zm,Online,Teslim Edildi,2024-11-04 20:11:00,2024-11-04 20:36:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-ysf4,Online,Teslim Edildi,2024-11-12 17:58:00,2024-11-12 18:08:00,120.0,6.14,11.52,24.0,0.0,19.2,59.14,59.14,24.0,0.0,"1 Coca-Cola (25 cl.), 1 Sprite (25 cl.), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-z3ic,Online,Teslim Edildi,2024-10-28 18:27:00,2024-10-28 19:11:00,660.0,48.58,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Roma, 1 Margherita"
+Arthur's Pizza,vz11-z5ld,Kapıda Ödeme,Teslim Edildi,2024-11-16 17:59:00,2024-11-16 18:18:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Milano
+Arthur's Pizza,vz11-zgbi,Kapıda Ödeme,Teslim Edildi,2024-11-14 13:05:00,2024-11-14 13:39:00,340.0,0.0,0.0,0.0,100.0,0.0,240.0,240.0,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-0ylu,Online,Teslim Edildi,2024-10-15 19:55:00,2024-10-15 20:37:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-155w,Kapıda Ödeme,Teslim Edildi,2024-10-03 20:00:00,2024-10-03 20:52:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-39bg,Kapıda Ödeme,Teslim Edildi,2024-09-24 21:15:00,2024-09-24 21:37:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-3enf,Online,Teslim Edildi,2024-10-04 17:19:00,2024-10-04 17:42:00,390.0,19.97,37.44,78.0,0.0,62.4,192.19,192.19,78.0,0.0,"1 Roma, 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-4hue,Online,Teslim Edildi,2024-10-14 18:47:00,2024-10-14 19:15:00,660.0,48.58,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Napolitan, 1 Verona"
+Arthur's Pizza,vz11-4kky,Online,Teslim Edildi,2024-10-03 21:03:00,2024-10-03 21:28:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-4lca,Kapıda Ödeme,Teslim Edildi,2024-10-03 22:51:00,2024-10-03 23:14:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-4n0n,Online,Teslim Edildi,2024-10-14 19:06:00,2024-10-14 19:30:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Roma
+Arthur's Pizza,vz11-4t6c,Online,Teslim Edildi,2024-10-05 22:21:00,2024-10-05 22:53:00,760.0,59.4,45.6,0.0,150.0,76.0,234.08,234.08,0.0,150.0,"1 Margherita, 1 Torino, 2 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-4ym2,Online,Teslim Edildi,2024-09-30 18:10:00,2024-09-30 18:35:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-641m,Online,Teslim Edildi,2024-10-09 20:29:00,2024-10-09 21:01:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Torino"
+Arthur's Pizza,vz11-6qsv,Kapıda Ödeme,Teslim Edildi,2024-10-04 16:33:00,2024-10-04 17:01:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Verona, 1 Milano"
+Arthur's Pizza,vz11-6x99,Online,Teslim Edildi,2024-10-15 22:56:00,2024-10-15 23:31:00,320.0,19.39,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Margherita
+Arthur's Pizza,vz11-7fng,Kapıda Ödeme,Teslim Edildi,2024-10-14 18:05:00,2024-10-14 18:43:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-7okk,Online,Teslim Edildi,2024-10-16 20:26:00,2024-10-16 20:54:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Torino"
+Arthur's Pizza,vz11-811j,Kapıda Ödeme,Teslim Edildi,2024-10-16 19:51:00,2024-10-16 20:14:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-8da9,Online,Teslim Edildi,2024-10-05 15:47:00,2024-10-05 16:16:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Verona
+Arthur's Pizza,vz11-8ovt,Kapıda Ödeme,Teslim Edildi,2024-10-15 22:56:00,2024-10-15 23:20:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-8w2z,Online,Teslim Edildi,2024-10-04 20:00:00,2024-10-04 20:39:00,390.0,26.97,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Roma, 1 Fanta (25 cl.)"
+Arthur's Pizza,vz11-9d7d,Online,Teslim Edildi,2024-09-22 19:35:00,2024-09-22 20:13:00,340.0,17.41,32.64,68.0,0.0,54.4,167.55,167.55,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-ap2t,Kapıda Ödeme,Teslim Edildi,2024-09-30 17:27:00,2024-09-30 18:01:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-atub,Online,Teslim Edildi,2024-09-30 17:00:00,2024-09-30 17:28:00,660.0,48.58,39.6,0.0,150.0,66.0,203.28,203.28,0.0,150.0,"1 Roma, 1 Margherita"
+Arthur's Pizza,vz11-boue,Online,Teslim Edildi,2024-10-04 20:06:00,2024-10-04 20:54:00,320.0,19.39,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Margherita
+Arthur's Pizza,vz11-bur5,Online,Teslim Edildi,2024-10-02 17:43:00,2024-10-02 18:05:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-c962,Online,Teslim Edildi,2024-10-05 18:37:00,2024-10-05 19:00:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Roma, 1 Torino"
+Arthur's Pizza,vz11-deyq,Kapıda Ödeme,Teslim Edildi,2024-09-20 23:00:00,2024-09-21 00:26:00,680.0,34.82,65.28,136.0,0.0,108.8,335.1,335.1,136.0,0.0,"1 Roma Pizza, 1 Torino"
+Arthur's Pizza,vz11-dm5s,Online,Teslim Edildi,2024-10-05 17:32:00,2024-10-05 17:50:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-dzek,Kapıda Ödeme,Teslim Edildi,2024-09-24 20:23:00,2024-09-24 20:42:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-f2wp,Kapıda Ödeme,Teslim Edildi,2024-10-03 15:53:00,2024-10-03 16:18:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-fizh,Online,Teslim Edildi,2024-10-06 22:58:00,2024-10-06 23:21:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-iu5p,Kapıda Ödeme,Teslim Edildi,2024-10-03 13:55:00,2024-10-03 14:23:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-l1v6,Online,Teslim Edildi,2024-10-04 19:44:00,2024-10-04 20:13:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-lbmf,Kapıda Ödeme,Teslim Edildi,2024-10-15 22:16:00,2024-10-15 22:40:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Napolitan
+Arthur's Pizza,vz11-llum,Online,Teslim Edildi,2024-10-09 20:30:00,2024-10-09 21:16:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-lstp,Online,Teslim Edildi,2024-10-14 19:31:00,2024-10-14 19:58:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-ncku,Kapıda Ödeme,Teslim Edildi,2024-09-20 23:17:00,2024-09-21 00:05:00,710.0,53.99,42.6,0.0,150.0,71.0,218.68,218.68,0.0,150.0,"1 Margherita Pizza (Orta), 1 Roma Pizza, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-nkez,Online,Teslim Edildi,2024-10-05 21:34:00,2024-10-05 22:00:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-oakp,Online,Teslim Edildi,2024-09-21 17:58:00,2024-09-21 18:23:00,390.0,19.97,37.44,78.0,0.0,62.4,192.19,192.19,78.0,0.0,"1 Milano Pizza, 1 Lipton Ice Tea Şeftali (25 cl.)"
+Arthur's Pizza,vz11-p77t,Online,Teslim Edildi,2024-10-16 20:10:00,2024-10-16 20:33:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-pj77,Kapıda Ödeme,Teslim Edildi,2024-10-16 18:51:00,2024-10-16 19:11:00,370.0,24.81,22.2,0.0,100.0,37.0,113.96,113.96,0.0,100.0,"1 Coca-Cola Zero Sugar (25 cl.), 1 Napolitan"
+Arthur's Pizza,vz11-pk9o,Online,Teslim Edildi,2024-10-04 19:42:00,2024-10-04 20:34:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Torino, 1 Roma"
+Arthur's Pizza,vz11-qgcl,Online,Teslim Edildi,2024-10-07 17:49:00,2024-10-07 18:12:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-rfvf,Online,Teslim Edildi,2024-10-03 17:37:00,2024-10-03 17:56:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-sh7h,Kapıda Ödeme,Teslim Edildi,2024-10-16 20:22:00,2024-10-16 20:50:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-sibl,Online,Teslim Edildi,2024-10-15 20:24:00,2024-10-15 20:45:00,390.0,26.97,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Milano, 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-tcon,Online,Teslim Edildi,2024-10-14 19:59:00,2024-10-14 20:23:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Milano
+Arthur's Pizza,vz11-tsyt,Kapıda Ödeme,Teslim Edildi,2024-09-25 11:47:00,2024-09-25 11:56:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Margherita
+Arthur's Pizza,vz11-ttlh,Kapıda Ödeme,Teslim Edildi,2024-10-05 18:19:00,2024-10-05 18:45:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-ugg6,Kapıda Ödeme,Teslim Edildi,2024-10-01 19:01:00,2024-10-01 19:19:00,320.0,16.38,30.72,64.0,0.0,51.2,157.7,157.7,64.0,0.0,1 Margherita
+Arthur's Pizza,vz11-v2ld,Online,Teslim Edildi,2024-10-09 21:43:00,2024-10-09 22:05:00,320.0,19.39,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,1 Napolitan
+Arthur's Pizza,vz11-vdse,Kapıda Ödeme,Teslim Edildi,2024-10-05 18:30:00,2024-10-05 19:16:00,390.0,26.97,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Verona, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-vuni,Online,Teslim Edildi,2024-10-16 20:41:00,2024-10-16 21:14:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Torino
+Arthur's Pizza,vz11-x67h,Kapıda Ödeme,Teslim Edildi,2024-10-16 18:15:00,2024-10-16 18:28:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-xjfl,Online,Teslim Edildi,2024-10-09 20:25:00,2024-10-09 20:44:00,390.0,26.97,23.4,0.0,100.0,39.0,120.12,120.12,0.0,100.0,"1 Verona, 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-yw3r,Online,Teslim Edildi,2024-09-20 23:52:00,2024-09-21 00:41:00,760.0,59.4,45.6,0.0,150.0,76.0,234.08,234.08,0.0,150.0,"1 Roma Pizza, 1 Napolitan Pizza (Orta), 1 Coca-Cola (25 cl.), 1 Fanta (25 cl.)"
+Arthur's Pizza,vz11-zqx1,Online,Teslim Edildi,2024-10-03 15:31:00,2024-10-03 15:50:00,340.0,21.56,20.4,0.0,100.0,34.0,104.72,104.72,0.0,100.0,1 Roma
+Arthur's Pizza,vz11-zwfz,Kapıda Ödeme,Teslim Edildi,2024-10-01 21:18:00,2024-10-01 21:52:00,680.0,50.74,40.8,0.0,150.0,68.0,209.44,209.44,0.0,150.0,"1 Torino, 1 Roma"
+Arthur's Pizza,vz11-0f3t,Online,Teslim Edildi,2024-08-27 21:36:00,2024-08-27 21:56:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-15ws,Online,Teslim Edildi,2024-08-27 18:34:00,2024-08-27 19:07:00,535.0,35.04,32.1,0.0,150.0,53.5,164.78,164.78,0.0,150.0,"1 Roma Pizza (Küçük Boy), 1 Milano Pizza (Orta)"
+Arthur's Pizza,vz11-4pz6,Online,Teslim Edildi,2024-08-22 23:20:00,2024-08-22 23:45:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Torino Pizza (Orta)
+Arthur's Pizza,vz11-69k1,Online,Teslim Edildi,2024-08-22 22:15:00,2024-08-22 22:34:00,325.0,15.6,29.25,81.25,0.0,48.75,150.15,150.15,81.25,0.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-7mo7,Kapıda Ödeme,Teslim Edildi,2024-08-31 22:08:00,2024-08-31 22:34:00,420.0,20.16,37.8,105.0,0.0,63.0,194.04,194.04,105.0,0.0,"1 Roma Pizza (Küçük Boy), 1 Milano Pizza (Küçük Boy)"
+Arthur's Pizza,vz11-8rau,Kapıda Ödeme,Teslim Edildi,2024-08-31 00:34:00,2024-08-31 00:48:00,200.0,9.6,18.0,50.0,0.0,30.0,92.4,92.4,50.0,0.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-dqg2,Kapıda Ödeme,Teslim Edildi,2024-08-27 20:18:00,2024-08-27 20:38:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-jaxr,Online,Teslim Edildi,2024-08-29 18:45:00,2024-08-29 19:07:00,200.0,12.5,12.0,0.0,60.0,20.0,61.6,61.6,0.0,60.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-l3gx,Online,Teslim Edildi,2024-08-26 22:00:00,2024-08-26 22:36:00,525.0,33.96,31.5,0.0,150.0,52.5,161.7,161.7,0.0,150.0,"1 Margherita Pizza (Küçük), 1 Milano Pizza (Orta)"
+Arthur's Pizza,vz11-lej4,Online,Teslim Edildi,2024-08-21 22:36:00,2024-08-21 23:04:00,475.0,28.55,28.5,0.0,150.0,47.5,146.3,146.3,0.0,150.0,"1 Milano Pizza (Büyük boy), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-mesy,Kapıda Ödeme,Teslim Edildi,2024-09-12 19:23:00,2024-09-12 19:59:00,975.0,82.68,58.5,0.0,150.0,97.5,300.3,300.3,0.0,150.0,3 Milano Pizza (Orta)
+Arthur's Pizza,vz11-mrdl,Online,Teslim Edildi,2024-08-30 21:19:00,2024-08-30 21:44:00,535.0,35.04,32.1,0.0,150.0,53.5,164.78,164.78,0.0,150.0,"1 Torino Pizza (Orta), 1 Verona Pizza (Küçük)"
+Arthur's Pizza,vz11-o0kb,Kapıda Ödeme,Teslim Edildi,2024-08-31 23:56:00,2024-09-01 00:27:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Milano Pizza (Küçük Boy)
+Arthur's Pizza,vz11-o7c3,Online,Teslim Edildi,2024-08-21 00:32:00,2024-08-21 00:58:00,200.0,12.5,12.0,0.0,60.0,20.0,61.6,61.6,0.0,60.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-pcb4,Kapıda Ödeme,Teslim Edildi,2024-08-28 23:06:00,2024-08-28 23:26:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Verona Pizza (Küçük)
+Arthur's Pizza,vz11-ptop,Online,Teslim Edildi,2024-09-05 20:12:00,2024-09-05 20:34:00,325.0,15.6,29.25,81.25,0.0,48.75,150.15,150.15,81.25,0.0,1 Torino Pizza (Orta)
+Arthur's Pizza,vz11-rp3v,Online,Teslim Edildi,2024-09-16 18:52:00,2024-09-16 19:26:00,625.0,44.79,37.5,0.0,150.0,62.5,192.5,192.5,0.0,150.0,"1 Napolitan Pizza (Orta), 1 Verona Pizza (Orta)"
+Arthur's Pizza,vz11-rumb,Online,Teslim Edildi,2024-08-26 23:09:00,2024-08-26 23:35:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Torino Pizza (Küçük Boy) (22 cm.)
+Arthur's Pizza,vz11-uo7u,Online,Teslim Edildi,2024-09-07 18:12:00,2024-09-07 18:39:00,650.0,31.2,58.5,162.5,0.0,97.5,300.3,300.3,162.5,0.0,2 Roma Pizza (Orta)
+Arthur's Pizza,vz11-uui9,Kapıda Ödeme,Teslim Edildi,2024-09-17 18:45:00,2024-09-17 19:11:00,975.0,49.92,93.6,195.0,0.0,156.0,480.48,480.48,195.0,0.0,3 Milano Pizza (Orta)
+Arthur's Pizza,vz11-vthc,Online,Teslim Edildi,2024-09-02 18:49:00,2024-09-02 19:11:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-xbsr,Online,Teslim Edildi,2024-09-18 23:29:00,2024-09-18 23:57:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-xd8o,Online,Teslim Edildi,2024-09-12 23:04:00,2024-09-12 23:43:00,325.0,15.6,29.25,81.25,0.0,48.75,150.15,150.15,81.25,0.0,1 Verona Pizza (Orta)
+Arthur's Pizza,vz11-xkzz,Online,Teslim Edildi,2024-08-27 18:50:00,2024-08-27 19:26:00,650.0,47.49,39.0,0.0,150.0,65.0,200.2,200.2,0.0,150.0,"1 Milano Pizza (Orta), 1 Verona Pizza (Orta)"
+Arthur's Pizza,vz11-xo9k,Online,Teslim Edildi,2024-08-31 23:21:00,2024-08-31 23:42:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-03ow,Kapıda Ödeme,Teslim Edildi,2024-08-07 21:51:00,2024-08-07 22:15:00,375.0,25.35,22.5,0.0,100.0,37.5,115.5,115.5,0.0,100.0,"1 Torino Pizza (Orta), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-0f73,Online,Teslim Edildi,2024-08-04 21:46:00,2024-08-04 22:03:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-14bk,Kapıda Ödeme,Teslim Edildi,2024-08-14 20:30:00,2024-08-14 21:08:00,470.0,28.01,28.2,0.0,150.0,47.0,144.76,144.76,0.0,150.0,"1 Roma Pizza (Küçük Boy), 1 Milano Pizza (Küçük Boy), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-19yc,Kapıda Ödeme,Teslim Edildi,2024-08-17 20:30:00,2024-08-17 20:57:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-1mmt,Online,Teslim Edildi,2024-08-03 19:04:00,2024-08-03 19:39:00,975.0,46.8,87.75,243.75,0.0,146.25,450.45,450.45,243.75,0.0,"1 Milano Pizza (Orta), 1 Verona Pizza (Orta), 1 Torino Pizza (Orta)"
+Arthur's Pizza,vz11-1wj0,Online,Teslim Edildi,2024-08-03 16:19:00,2024-08-03 16:46:00,650.0,31.2,58.5,162.5,0.0,97.5,300.3,300.3,162.5,0.0,2 Roma Pizza (Orta)
+Arthur's Pizza,vz11-26o5,Kapıda Ödeme,Teslim Edildi,2024-07-29 20:54:00,2024-07-29 21:32:00,650.0,19.5,0.0,162.5,0.0,97.5,370.5,370.5,162.5,0.0,2 Verona Pizza (Orta)
+Arthur's Pizza,vz11-2w8v,Online,Teslim Edildi,2024-08-02 23:10:00,2024-08-02 23:30:00,460.0,26.92,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Milano Pizza (Küçük Boy), 1 Margherita Pizza (Küçük), 1 Lipton Ice Tea Şeftali (25 cl.)"
+Arthur's Pizza,vz11-374e,Kapıda Ödeme,Teslim Edildi,2024-08-08 22:17:00,2024-08-08 22:46:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Verona Pizza (Küçük)
+Arthur's Pizza,vz11-3ahz,Online,Teslim Edildi,2024-08-01 22:20:00,2024-08-01 22:49:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Verona Pizza (Küçük)
+Arthur's Pizza,vz11-46qs,Online,Teslim Edildi,2024-08-03 23:23:00,2024-08-04 00:05:00,585.0,40.46,35.1,0.0,150.0,58.5,180.18,180.18,0.0,150.0,"1 Milano Pizza (Orta), 1 Coca-Cola (25 cl.), 1 Verona Pizza (Küçük)"
+Arthur's Pizza,vz11-4cfh,Kapıda Ödeme,Teslim Edildi,2024-08-02 22:17:00,2024-08-02 22:51:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Torino Pizza (Orta)
+Arthur's Pizza,vz11-4rpp,Online,Teslim Edildi,2024-08-17 23:43:00,2024-08-18 00:30:00,650.0,47.49,39.0,0.0,150.0,65.0,200.2,200.2,0.0,150.0,"1 Roma Pizza (Orta), 1 Torino Pizza (Orta)"
+Arthur's Pizza,vz11-528u,Online,Teslim Edildi,2024-08-13 23:33:00,2024-08-13 23:54:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Milano Pizza (Küçük Boy)
+Arthur's Pizza,vz11-59mz,Online,Teslim Edildi,2024-08-18 19:12:00,2024-08-18 20:03:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-59xl,Kapıda Ödeme,Teslim Edildi,2024-07-31 20:46:00,2024-07-31 21:29:00,210.0,10.08,18.9,52.5,0.0,31.5,97.02,97.02,52.5,0.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-5g84,Kapıda Ödeme,Teslim Edildi,2024-08-17 20:25:00,2024-08-17 20:44:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Verona Pizza (Küçük)
+Arthur's Pizza,vz11-5pab,Online,Teslim Edildi,2024-08-03 18:09:00,2024-08-03 18:36:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-5pfr,Kapıda Ödeme,Teslim Edildi,2024-08-02 20:39:00,2024-08-02 21:03:00,650.0,31.2,58.5,162.5,0.0,97.5,300.3,300.3,162.5,0.0,"1 Torino Pizza (Orta), 1 Roma Pizza (Orta)"
+Arthur's Pizza,vz11-6wj6,Online,Teslim Edildi,2024-08-04 17:34:00,2024-08-04 18:09:00,210.0,10.08,18.9,52.5,0.0,31.5,97.02,97.02,52.5,0.0,1 Verona Pizza (Küçük)
+Arthur's Pizza,vz11-78sj,Kapıda Ödeme,Teslim Edildi,2024-08-15 23:29:00,2024-08-15 23:45:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-7kv8,Online,Teslim Edildi,2024-08-17 18:04:00,2024-08-17 18:25:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-8uwk,Kapıda Ödeme,Teslim Edildi,2024-08-07 23:51:00,2024-08-08 00:23:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-9px8,Online,Teslim Edildi,2024-08-15 21:47:00,2024-08-15 22:09:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Torino Pizza (Orta)
+Arthur's Pizza,vz11-a4y2,Online,Teslim Edildi,2024-07-31 17:25:00,2024-07-31 18:13:00,475.0,28.55,28.5,0.0,150.0,47.5,146.3,146.3,0.0,150.0,"1 Coca-Cola Zero Sugar (25 cl.), 1 Roma (Büyük)"
+Arthur's Pizza,vz11-avxe,Kapıda Ödeme,Teslim Edildi,2024-08-05 21:40:00,2024-08-05 22:00:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Verona Pizza (Orta)
+Arthur's Pizza,vz11-bhwt,Online,Teslim Edildi,2024-08-15 21:51:00,2024-08-15 22:17:00,350.0,22.64,21.0,0.0,100.0,35.0,107.8,107.8,0.0,100.0,"1 Margherita Pizza (Orta), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-ca5f,Kapıda Ödeme,Teslim Edildi,2024-08-07 20:43:00,2024-08-07 21:12:00,300.0,14.4,27.0,75.0,0.0,45.0,138.6,138.6,75.0,0.0,1 Margherita Pizza (Orta)
+Arthur's Pizza,vz11-cc4t,Online,Teslim Edildi,2024-08-09 21:36:00,2024-08-09 22:04:00,375.0,25.35,22.5,0.0,100.0,37.5,115.5,115.5,0.0,100.0,"1 Roma Pizza (Orta), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-cz3b,Online,Teslim Edildi,2024-08-18 19:25:00,2024-08-18 20:13:00,300.0,17.23,18.0,0.0,100.0,30.0,92.4,92.4,0.0,100.0,1 Napolitan Pizza (Orta)
+Arthur's Pizza,vz11-d7l2,Online,Teslim Edildi,2024-08-03 23:20:00,2024-08-03 23:58:00,535.0,35.04,32.1,0.0,150.0,53.5,164.78,164.78,0.0,150.0,"1 Roma Pizza (Küçük Boy), 1 Verona Pizza (Orta)"
+Arthur's Pizza,vz11-dy23,Online,Teslim Edildi,2024-08-15 23:23:00,2024-08-15 23:50:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-e0gd,Online,Teslim Edildi,2024-08-18 22:42:00,2024-08-18 23:24:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Torino Pizza (Küçük Boy) (22 cm.)
+Arthur's Pizza,vz11-exll,Online,Teslim Edildi,2024-08-09 23:39:00,2024-08-10 00:00:00,200.0,12.5,12.0,0.0,60.0,20.0,61.6,61.6,0.0,60.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-f0ik,Online,Teslim Edildi,2024-07-30 19:59:00,2024-07-30 20:14:00,210.0,11.06,0.0,0.0,60.0,21.0,79.8,79.8,0.0,60.0,1 Verona Pizza (Küçük)
+Arthur's Pizza,vz11-fza1,Kapıda Ödeme,Teslim Edildi,2024-08-03 17:24:00,2024-08-03 17:47:00,210.0,10.08,18.9,52.5,0.0,31.5,97.02,97.02,52.5,0.0,1 Milano Pizza (Küçük Boy)
+Arthur's Pizza,vz11-gbdk,Kapıda Ödeme,Teslim Edildi,2024-08-02 22:17:00,2024-08-02 22:36:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Verona Pizza (Orta)
+Arthur's Pizza,vz11-gd8y,Kapıda Ödeme,Teslim Edildi,2024-08-14 23:20:00,2024-08-14 23:48:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-gs0v,Online,Teslim Edildi,2024-08-03 18:10:00,2024-08-03 18:30:00,460.0,26.92,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Coca-Cola Zero Sugar (25 cl.), 1 Roma Pizza (Küçük Boy), 1 Neapolitan (Küçük)"
+Arthur's Pizza,vz11-h0bh,Online,Teslim Edildi,2024-07-29 22:20:00,2024-07-29 22:27:00,210.0,6.3,0.0,52.5,0.0,31.5,119.7,119.7,52.5,0.0,1 Verona Pizza (Küçük)
+Arthur's Pizza,vz11-hosr,Online,Teslim Edildi,2024-07-30 20:52:00,2024-07-30 21:26:00,260.0,7.8,0.0,65.0,0.0,39.0,148.2,148.2,65.0,0.0,"1 Roma Pizza (Küçük Boy), 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-iuc2,Kapıda Ödeme,Teslim Edildi,2024-08-15 23:55:00,2024-08-16 00:23:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Torino Pizza (Orta)
+Arthur's Pizza,vz11-ix87,Kapıda Ödeme,Teslim Edildi,2024-08-03 22:20:00,2024-08-03 22:40:00,210.0,10.08,18.9,52.5,0.0,31.5,97.02,97.02,52.5,0.0,1 Milano Pizza (Küçük Boy)
+Arthur's Pizza,vz11-ixe3,Online,Teslim Edildi,2024-08-04 17:22:00,2024-08-04 17:59:00,540.0,35.59,32.4,0.0,150.0,54.0,166.32,166.32,0.0,150.0,"1 Roma Pizza (Küçük Boy), 1 Verona Pizza (Küçük), 1 Lipton Ice Tea Şeftali (25 cl.), 1 Lipton Ice Tea Limon (25 cl.), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-j93w,Online,Teslim Edildi,2024-07-30 19:20:00,2024-07-30 19:48:00,625.0,18.75,0.0,156.25,0.0,93.75,356.25,356.25,156.25,0.0,"1 Napolitan Pizza (Orta), 1 Roma Pizza (Orta)"
+Arthur's Pizza,vz11-jatk,Online,Teslim Edildi,2024-08-03 16:11:00,2024-08-03 16:38:00,535.0,35.04,32.1,0.0,150.0,53.5,164.78,164.78,0.0,150.0,"1 Milano Pizza (Orta), 1 Milano Pizza (Küçük Boy)"
+Arthur's Pizza,vz11-jbis,Online,Teslim Edildi,2024-08-13 23:20:00,2024-08-13 23:44:00,375.0,25.35,22.5,0.0,100.0,37.5,115.5,115.5,0.0,100.0,"1 Roma Pizza (Orta), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-jqrl,Kapıda Ödeme,Teslim Edildi,2024-07-30 21:08:00,2024-07-30 21:39:00,210.0,11.06,0.0,0.0,60.0,21.0,79.8,79.8,0.0,60.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-lebx,Kapıda Ödeme,Teslim Edildi,2024-07-31 16:46:00,2024-07-31 17:20:00,650.0,47.49,39.0,0.0,150.0,65.0,200.2,200.2,0.0,150.0,2 Roma Pizza (Orta)
+Arthur's Pizza,vz11-ljdt,Online,Teslim Edildi,2024-07-30 21:08:00,2024-07-30 21:48:00,475.0,22.85,0.0,0.0,150.0,47.5,180.5,180.5,0.0,150.0,"1 Milano Pizza (Büyük boy), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-m5ba,Online,Teslim Edildi,2024-07-28 21:20:00,2024-07-28 21:30:00,210.0,6.3,0.0,52.5,0.0,31.5,119.7,119.7,52.5,0.0,1 Milano Pizza (Küçük Boy)
+Arthur's Pizza,vz11-m6vf,Online,Teslim Edildi,2024-07-30 22:05:00,2024-07-30 22:27:00,210.0,6.3,0.0,52.5,0.0,31.5,119.7,119.7,52.5,0.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-njo3,Kapıda Ödeme,Teslim Edildi,2024-08-03 21:32:00,2024-08-03 22:06:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-nvqd,Online,Teslim Edildi,2024-07-31 20:04:00,2024-07-31 20:29:00,410.0,19.68,36.9,102.5,0.0,61.5,189.42,189.42,102.5,0.0,"1 Margherita Pizza (Küçük), 1 Torino Pizza (Küçük Boy) (22 cm.)"
+Arthur's Pizza,vz11-okwh,Online,Teslim Edildi,2024-07-28 21:07:00,2024-07-28 21:16:00,200.0,6.0,0.0,50.0,0.0,30.0,114.0,114.0,50.0,0.0,1 Neapolitan (Küçük)
+Arthur's Pizza,vz11-p0g3,Online,Teslim Edildi,2024-08-07 22:34:00,2024-08-07 22:54:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Roma Pizza (Küçük Boy)
+Arthur's Pizza,vz11-p3he,Online,Teslim Edildi,2024-08-07 20:27:00,2024-08-07 20:55:00,410.0,29.14,24.6,0.0,100.0,41.0,126.28,126.28,0.0,100.0,"1 Margherita Pizza (Küçük), 1 Milano Pizza (Küçük Boy)"
+Arthur's Pizza,vz11-p7i9,Kapıda Ödeme,Teslim Edildi,2024-08-20 21:35:00,2024-08-20 21:53:00,210.0,13.58,12.6,0.0,60.0,21.0,64.68,64.68,0.0,60.0,1 Torino Pizza (Küçük Boy) (22 cm.)
+Arthur's Pizza,vz11-pec6,Online,Teslim Edildi,2024-08-09 19:48:00,2024-08-09 20:19:00,525.0,25.2,47.25,131.25,0.0,78.75,242.55,242.55,131.25,0.0,"1 Torino Pizza (Orta), 1 Neapolitan (Küçük)"
+Arthur's Pizza,vz11-pgba,Online,Teslim Edildi,2024-08-04 21:16:00,2024-08-04 22:24:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-q0pl,Kapıda Ödeme,Teslim Edildi,2024-08-05 21:51:00,2024-08-05 22:31:00,625.0,44.79,37.5,0.0,150.0,62.5,192.5,192.5,0.0,150.0,"1 Napolitan Pizza (Orta), 1 Torino Pizza (Orta)"
+Arthur's Pizza,vz11-qj2z,Online,Teslim Edildi,2024-07-26 19:46:00,2024-07-26 19:56:00,200.0,6.0,0.0,50.0,0.0,30.0,114.0,114.0,50.0,0.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-qqao,Online,Teslim Edildi,2024-08-18 22:42:00,2024-08-18 23:07:00,220.0,14.67,13.2,0.0,60.0,22.0,67.76,67.76,0.0,60.0,"1 Neapolitan (Küçük), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-r3mk,Kapıda Ödeme,Teslim Edildi,2024-08-15 18:22:00,2024-08-15 18:42:00,200.0,12.5,12.0,0.0,60.0,20.0,61.6,61.6,0.0,60.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-rkgc,Kapıda Ödeme,Teslim Edildi,2024-08-04 17:50:00,2024-08-04 18:24:00,325.0,15.6,29.25,81.25,0.0,48.75,150.15,150.15,81.25,0.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-sa1n,Online,Teslim Edildi,2024-08-04 17:22:00,2024-08-04 18:14:00,300.0,17.23,18.0,0.0,100.0,30.0,92.4,92.4,0.0,100.0,1 Margherita Pizza (Orta)
+Arthur's Pizza,vz11-syrh,Online,Teslim Edildi,2024-08-01 21:52:00,2024-08-01 22:09:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-t7xg,Online,Teslim Edildi,2024-08-01 20:14:00,2024-08-01 20:33:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Roma Pizza (Orta)
+Arthur's Pizza,vz11-tgyk,Online,Teslim Edildi,2024-07-30 19:57:00,2024-07-30 20:16:00,200.0,10.1,0.0,0.0,60.0,20.0,76.0,76.0,0.0,60.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-umkt,Online,Teslim Edildi,2024-08-17 23:43:00,2024-08-18 00:17:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-v922,Online,Teslim Edildi,2024-08-14 00:02:00,2024-08-14 00:27:00,320.0,19.39,19.2,0.0,100.0,32.0,98.56,98.56,0.0,100.0,"1 Margherita Pizza (Orta), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-vurf,Online,Teslim Edildi,2024-07-29 22:00:00,2024-07-29 22:11:00,200.0,6.0,0.0,50.0,0.0,30.0,114.0,114.0,50.0,0.0,1 Margherita Pizza (Küçük)
+Arthur's Pizza,vz11-wsph,Kapıda Ödeme,Teslim Edildi,2024-08-01 21:41:00,2024-08-01 22:20:00,650.0,31.2,58.5,162.5,0.0,97.5,300.3,300.3,162.5,0.0,2 Roma Pizza (Orta)
+Arthur's Pizza,vz11-wtk7,Online,Teslim Edildi,2024-07-31 21:25:00,2024-07-31 21:56:00,300.0,17.23,18.0,0.0,100.0,30.0,92.4,92.4,0.0,100.0,"1 Verona Pizza (Küçük), 1 Coca-Cola (25 cl.), 2 Su (50 cl.)"
+Arthur's Pizza,vz11-x6dy,Online,Teslim Edildi,2024-08-14 20:08:00,2024-08-14 20:40:00,325.0,19.93,19.5,0.0,100.0,32.5,100.1,100.1,0.0,100.0,1 Torino Pizza (Orta)
+Arthur's Pizza,vz11-xv2s,Online,Teslim Edildi,2024-08-17 22:14:00,2024-08-17 22:42:00,630.0,45.33,37.8,0.0,150.0,63.0,194.04,194.04,0.0,150.0,"1 Roma Pizza (Küçük Boy), 1 Milano Pizza (Küçük Boy), 1 Torino Pizza (Küçük Boy) (22 cm.)"
+Arthur's Pizza,vz11-y01a,Online,Teslim Edildi,2024-08-04 23:16:00,2024-08-04 23:40:00,460.0,26.92,27.6,0.0,150.0,46.0,141.68,141.68,0.0,150.0,"1 Verona Pizza (Küçük), 2 Sprite (25 cl.), 1 Lipton Ice Tea Limon (25 cl.), 2 Fanta (25 cl.)"
+Arthur's Pizza,vz11-z0q2,Online,Teslim Edildi,2024-08-05 21:50:00,2024-08-05 22:21:00,555.0,37.21,33.3,0.0,150.0,55.5,170.94,170.94,0.0,150.0,"1 Roma Pizza (Orta), 1 Milano Pizza (Küçük Boy), 1 Su (50 cl.)"
+Arthur's Pizza,vz11-z6wf,Online,Teslim Edildi,2024-08-08 19:32:00,2024-08-08 20:04:00,650.0,31.2,58.5,162.5,0.0,97.5,300.3,300.3,162.5,0.0,2 Roma Pizza (Orta)
+Arthur's Pizza,vz11-zzy9,Online,Teslim Edildi,2024-08-07 23:22:00,2024-08-07 23:41:00,375.0,25.35,22.5,0.0,100.0,37.5,115.5,115.5,0.0,100.0,"1 Milano Pizza (Orta), 1 Coca-Cola Zero Sugar (25 cl.)"

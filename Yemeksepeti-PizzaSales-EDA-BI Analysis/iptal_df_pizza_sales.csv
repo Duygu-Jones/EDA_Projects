@@ -1,0 +1,18 @@
+restoran_adi,siparis_no,odeme_yontemi,siparis_durumu,siparis_tarihi,iptal_zamani,iptal_sebebi,iptal_kaynagi,toplam_tutar,kdv_tutari,servis_ucreti,restoran_indirimi,restoran_kuponu,komisyon,tahmini_kazanc,odeme_tutari,toplam_indirim,toplam_kupon,urunler
+Arthur's Pizza,vz11-17q5,,İptal Edildi,22/11/2024 18:45,22/11/2024 19:17,Yanlış ürün teslimatı,İpt. Kaynağı:Lojistik,680.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150.0,0.0,"1 Roma, 1 Torino"
+Arthur's Pizza,vz11-6rsa,,İptal Edildi,01/12/2024 17:11,01/12/2024 18:02,Ürün kalitesi:Dökülme,İpt. Kaynağı:Lojistik,340.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68.0,0.0,1 Torino
+Arthur's Pizza,vz11-8fpf,,İptal Edildi,,20/11/2024 23:18,Kapalı,Satıcı,320.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,1 Margherita
+Arthur's Pizza,vz11-k020,Kapıda Ödeme,İptal Edildi,13/12/2024 20:33,14/12/2024 00:08,Hasarlı ürün,Satıcı,340.0,0.0,0.0,0.0,0.0,68.0,0.0,0.0,0.0,0.0,1 Roma
+Arthur's Pizza,vz11-mqid,,İptal Edildi,,09/11/2024 23:17,Ulaşılamıyor,Satıcı,680.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136.0,0.0,"1 Verona, 1 Torino"
+Arthur's Pizza,vz11-104q,,İptal Edildi,,21/09/2024 00:37,Ulaşılamıyor,Satıcı,340.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68.0,0.0,1 Roma Pizza
+Arthur's Pizza,vz11-pvhe,,İptal Edildi,14/10/2024 16:50,14/10/2024 16:50,İptal Sebebi: Müşteri iptali,Müşteri,340.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,1 Torino
+Arthur's Pizza,vz11-9556,,İptal Edildi,29/08/2024 20:38,29/08/2024 20:38,Yoğunluk,Satıcı,650.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,162.5,0.0,2 Roma Pizza (Orta)
+Arthur's Pizza,vz11-bo1x,,İptal Edildi,06/09/2024 23:28,06/09/2024 23:32,Yoğunluk,Satıcı,950.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,237.5,0.0,"1 Margherita Pizza (Orta), 1 Roma Pizza (Orta), 1 Torino Pizza (Orta)"
+Arthur's Pizza,vz11-e3r4,,İptal Edildi,17/09/2024 21:23,17/09/2024 21:58,Ödeme sorunu,Müşteri,325.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,1 Milano Pizza (Orta)
+Arthur's Pizza,vz11-moq9,,İptal Edildi,,21/08/2024 01:04,Ulaşılamıyor,Satıcı,260.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,"1 Roma Pizza (Küçük Boy), 1 Coca-Cola Zero Sugar (25 cl.)"
+Arthur's Pizza,vz11-5fov,,İptal Edildi,,09/08/2024 00:09,Ulaşılamıyor,Satıcı,210.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,1 Milano Pizza (Küçük Boy)
+Arthur's Pizza,vz11-7udz,,İptal Edildi,04/08/2024 23:16,05/08/2024 00:19,Geç teslimat,İpt. Kaynağı:Lojistik,325.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,1 Torino Pizza (Orta)
+Arthur's Pizza,vz11-dvm8,,İptal Edildi,,09/08/2024 00:10,Ulaşılamıyor,Satıcı,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,1 Margherita Pizza (Orta)
+Arthur's Pizza,vz11-en94,,İptal Edildi,31/07/2024 20:20,31/07/2024 20:50,Ürün kalitesi:Dökülme,İpt. Kaynağı:Lojistik,450.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150.0,0.0,"1 Roma (Büyük), 1 Su (50 cl.), 20 Poşet"
+Arthur's Pizza,vz11-pgsn,,İptal Edildi,,09/08/2024 00:10,Ulaşılamıyor,Satıcı,470.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150.0,0.0,"1 Roma Pizza (Küçük Boy), 1 Milano Pizza (Küçük Boy), 1 Coca-Cola (25 cl.)"
+Arthur's Pizza,vz11-x4sz,,İptal Edildi,,07/08/2024 00:32,Ulaşılamıyor,Satıcı,325.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,1 Verona Pizza (Orta)
