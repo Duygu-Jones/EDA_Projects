@@ -1,59 +1,68 @@
 <h1 align="center">
-📍 Startup Funding Analysis  💼💰
+📍 🍕 Yemeksepeti Pizza Sales Analysis 📊
   
-Detailed EDA Project 🚀
+EDA & Business Intelligence Project 🚀
 </h1>
 
 <p align="center">
-  <img src="https://discovertemplate.com/wp-content/uploads/2021/02/DT_81_Business-start-up-Animated-GIF-Icon-pack.gif">
+  <img src="https://github.com/Duygu-Jones/EDA_Projects/blob/main/Yemeksepeti-PizzaSales-EDA-BI%20Analysis/img.jpg">
 </p>
 
 ## Executive Summary:
 
-- This project aims to perform Exploratory Data Analysis (EDA) on a Startup Funding dataset.
-- By analyzing various attributes of startup funding, we can identify trends and patterns that influence funding success.
-- The insights gained from this analysis can help entrepreneurs and investors make informed decisions.
+- This project performs comprehensive Exploratory Data Analysis (EDA) on Yemeksepeti pizza sales data to extract actionable business insights.
+- By analysing sales patterns, customer behaviour, and promotional strategies, we identify key opportunities for revenue optimisation.
+- The insights gained from this analysis help restaurants make data-driven decisions for pricing, marketing, and operational improvements.
 
 ### Problem
 
-- The startup ecosystem is highly competitive, and understanding the factors that contribute to successful funding is crucial.
-- Key challenges include analyzing various attributes like industry sector, funding amount, and funding rounds.
-- Accurate analysis is essential for entrepreneurs to secure funding and for investors to identify promising startups.
+- Pizza restaurants face challenges in understanding customer preferences and optimising promotional strategies.
+- Key challenges include analysing sales patterns across different time periods, evaluating promotional effectiveness, and identifying profitable product combinations.
+- Accurate analysis is essential for maximising revenue and improving customer satisfaction.
 
 ### Objectives
 
-1. **Analyze Funding Attributes**: Understand trends and patterns in startup funding across different sectors and stages.
-2. **Assess Success Factors**: Evaluate how different factors influence funding success.
-3. **Feature Engineering**: Develop and transform features to improve analysis accuracy.
-4. **Provide Actionable Insights**: Recommend strategies for startups and investors based on analysis findings.
+1. **Analyse Sales Patterns**: Understand trends across hourly, daily, and monthly periods.
+2. **Evaluate Product Performance**: Identify best-selling pizza varieties and their profitability.
+3. **Assess Promotional Strategies**: Compare effectiveness of vouchers vs discounts using ROI analysis.
+4. **Provide Business Insights**: Recommend data-driven strategies for revenue optimisation.
 
 ### About the Dataset:
 
-- **Dataset**: `startup_funding_data.csv`
-- **Content**: Information on various startups and their funding details.
-- **Columns**:
-    - **Startup Name**: Name of the startup.
-    - **Industry Vertical**: The industry sector the startup belongs to.
-    - **Sub-Vertical**: Sub-sector within the industry.
-    - **City Location**: City where the startup is located.
-    - **Investors Name**: Names of investors in the startup.
-    - **Investment Type**: Type of funding (e.g., Seed, Series A).
-    - **Amount in USD**: Amount of funding received.
-    - **Remarks**: Additional remarks about the funding.
+- **Dataset**: `pizza_sales_dataset.csv`
+- **Content**: 396 pizza orders from Yemeksepeti platform
+- **Key Columns**:
+    - **Order Details**: Order ID, restaurant name, order status
+    - **Timing**: Order date, delivery time, estimated delivery
+    - **Financial**: Total amount, profit margin, service fees
+    - **Promotions**: Voucher amounts, discount values, promotional codes
+    - **Products**: Pizza varieties and drink combinations
+    - **Customer**: Payment method, delivery type
 
 ### Methodology
 
-- **Data Cleaning and Preprocessing**: Handling missing values, outlier detection, and normalization.
-- **Exploratory Data Analysis (EDA)**: Visualizing data trends and patterns using various libraries.
-- **Feature Engineering**: Creating new features and transforming existing ones to improve insights.
-- **Analysis**: Assessing factors influencing startup funding success using various statistical and visualization techniques.
+- **Data Cleaning**: Handled missing values, removed duplicates, standardised data types
+- **Feature Engineering**: Created time-based features (hour, day, month) and promotional categories
+- **Product Categorisation**: Developed parsing algorithms to classify 115+ product combinations
+- **Profitability Analysis**: Calculated ROI for different promotional strategies
+- **Visualisation**: Created comprehensive charts using Matplotlib and Seaborn
 
 ### Key Takeaways
 
-- **Trends and Patterns**: Identified key trends and patterns in startup funding across different sectors and stages.
-- **Success Factors**: Analyzed factors that significantly influence funding success.
-- **Actionable Insights**: Provided recommendations for startups and investors to improve their funding strategies.
+- **Peak Hours**: 18:00 shows highest sales volume with 67 orders
+- **Best Performers**: Roma Pizza leads in both volume (150 units) and profit (16,289₺)
+- **Promotional Strategy**: Discount campaigns prove 71% more profitable than voucher strategies
+- **Cancellation Rate**: Low 4.3% cancellation rate with "Unable to reach customer" as main issue
+- **Profit Margins**: Torino Pizza shows highest unit profit margin (115₺ per pizza)
 
+### Business Recommendations
+
+- **Focus on Peak Hours**: Optimise staffing and inventory for 17:00-21:00 period
+- **Product Strategy**: Promote Roma and Torino pizzas as flagship products
+- **Marketing Approach**: Shift from voucher campaigns to discount-based promotions
+- **Customer Service**: Improve communication protocols to reduce cancellations
+
+  
 ### Conclusion and Future Work
 
 - This analysis offered valuable insights into factors affecting startup funding success.
@@ -62,11 +71,11 @@ Detailed EDA Project 🚀
 
 ### Recommendations
 
-- Implement insights from the analysis to guide funding strategies for startups and investors.
-- Consider integrating additional data for more accurate analysis.
-- Explore further analysis and predictive modelling for better planning.
+- This analysis revealed significant insights into sales optimisation opportunities for pizza restaurants.
+- The findings provide clear direction for pricing strategies and promotional campaigns.
+- Future work could include predictive modelling for demand forecasting and customer lifetime value analysis.
 
-📍If you enjoyed this project, don't forget to give it a star! ✨🌟
+📍If you found this analysis helpful, don't forget to give it a star! ✨🌟
 
 ---
 
@@ -83,7 +92,8 @@ Clone the repository and open the Jupyter Notebook to explore.
 
 *To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
 
-- **Kaggle Notebook**: [Startup Funding EDA Project](https://www.kaggle.com/code/duygujones/startup-funding-eda-project)
+- **Kaggle Notebook**: [Yemeksepeti Pizza Sales -EDA/BI Analysis](https://www.kaggle.com/code/duygujones/yemeksepeti-pizza-sales-eda-bi-analysis/edit)
+- **Kaggle Dataset**: [yemeksepeti_pizza_sales](https://www.kaggle.com/datasets/duygujones/yemeksepeti-pizzasales)
 
 ---
 
@@ -99,7 +109,7 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
+- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
 - **Website**: [duygujones.com](https://duygujones.vercel.app/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
