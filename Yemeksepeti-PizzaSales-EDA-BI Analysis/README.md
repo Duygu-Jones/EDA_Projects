@@ -92,7 +92,7 @@ Clone the repository and open the Jupyter Notebook to explore.
 
 *To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
 
-- **Kaggle Notebook**: [Yemeksepeti Pizza Sales -EDA/BI Analysis](https://www.kaggle.com/code/duygujones/yemeksepeti-pizza-sales-eda-bi-analysis/edit)
+- **Kaggle Notebook**: [Yemeksepeti Pizza Sales -EDA/BI Analysis](https://www.kaggle.com/code/duygujones/yemeksepeti-pizza-sales-eda-bi-analysis)
 - **Kaggle Dataset**: [yemeksepeti_pizza_sales](https://www.kaggle.com/datasets/duygujones/yemeksepeti-pizzasales)
 
 ---
